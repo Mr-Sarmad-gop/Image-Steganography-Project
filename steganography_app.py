@@ -1,6 +1,4 @@
 import cv2
-import numpy as np
-import os
 
 class SteganoApp:
     def __init__(self):
